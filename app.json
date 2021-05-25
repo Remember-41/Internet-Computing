@@ -6,7 +6,7 @@
   ],
   "window":{
     "backgroundTextStyle":"light",
-    "navigationBarBackgroundColor": "#fff",
+    "navigationBarBackgroundColor": "#f00",
     "navigationBarTitleText": "投票小程序",
     "navigationBarTextStyle":"black"
   },
