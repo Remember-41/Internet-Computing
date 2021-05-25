@@ -1,0 +1,16 @@
+{
+  "pages":[
+    
+    "pages/index/index",
+    "pages/creatVote/createRadioVote"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "投票小程序",
+    "navigationBarTextStyle":"black"
+  },
+  
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

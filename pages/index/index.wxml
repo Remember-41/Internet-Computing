@@ -1,0 +1,13 @@
+<!--index.wxml-->
+<view class="container"> 
+  <view class="btn" bindtap="onTapCreateRadioVote">
+    <image class="btn-img" src="/imgs/btn-img1.jpg" mode="widthFix"></image>
+    <text class="btn-text">单选投票</text>
+    <text class="btn-desc">创建一个单选投票</text>
+  </view>
+  <view class="btn">
+    <image class="btn-img" src="/imgs/btn-img2.jpg" mode="widthFix"></image>
+    <text class="btn-text">多选投票</text>
+    <text class="btn-desc">创建一个多选投票</text>
+  </view>
+</view>
